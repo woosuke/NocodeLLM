@@ -43,7 +43,7 @@
       <td style="text-align: center;" class="confluenceTd">2</td>
       <td style="text-align: left;" class="confluenceTd">LangChain Chatbot 생성 실습</td>
       <td style="text-align: left;" class="confluenceTd">
-        <p>1. 나만의 첫 LLM Chatbot</p>
+        <p><a href="./doc/1.First_Chatbot Chatflow.md">1. 나만의 첫 LLM Chatbot</a></p>
         <p><a href="./doc/1.First_Chatbot Chatflow.md">- Chatflow</a></p>
         <p>2. Multi Chain Chatbot</p>
         <p> <a href="./doc/2.Multi_Chain_Chatbot Chatflow.md"> - LLM Chain</p>
