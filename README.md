@@ -44,17 +44,16 @@
       <td style="text-align: left;" class="confluenceTd">LangChain Chatbot 생성 실습</td>
       <td style="text-align: left;" class="confluenceTd">
         <p><a href="./doc/1.First_Chatbot Chatflow.md">1. 나만의 첫 LLM Chatbot</a></p>
-        <p><a href="./doc/1.First_Chatbot Chatflow.md">- Chatflow</a></p>
-        <p>2. Multi Chain Chatbot</p>
-        <p> <a href="./doc/2.Multi_Chain_Chatbot Chatflow.md"> - LLM Chain</p>
+        <p><a href="./doc/2.Multi_Chain_Chatbot Chatflow.md">2. Multi Chain Chatbot</a></p>
+        <p>  - LLM Chain</p>
         <p>  - Output parser</p>
         <p>  - Ifelse Function</p></a>
-        <p>3. Memory Chatbot</p>
-        <p>  <a href="./doc/3.Memory_Chatbot Chatflow.md">- Conversation Chain</p>
+        <p><a href="./doc/3.Memory_Chatbot Chatflow.md">3. Memory Chatbot</a></p>
+        <p>  - Conversation Chain</p>
         <p>  - Buffer Memory</p>
         <p>  - Redis Memory</p></a>
-        <p>4. RAG Chatbot</p>
-        <p>  <a href="./doc/4.RAG_Chatbot Chatflow.md">- Conversational Retrieval QA Chain</p>
+        <p><a href="./doc/4.RAG_Chatbot Chatflow.md">4. RAG Chatbot</a></p>
+        <p>  - Conversational Retrieval QA Chain</p>
         <p>  - In-Memory Vector Store</p>
         <p>  - External Vector Store</p>
         <p>  - Text Splitter</p>
@@ -73,8 +72,8 @@
       <td style="text-align: center;" class="confluenceTd">4</td>
       <td style="text-align: left;" class="confluenceTd">Agent 활용 Chatbot 생성 실습</td>
       <td style="text-align: left;" class="confluenceTd">
-        <p>6. Agent 활용 Chatbot</p>
-        <p><a href="./doc/6.Agent_Powered_Chatbot.md">  - Calculator</p>
+        <p><a href="./doc/6.Agent_Powered_Chatbot.md">6. Agent 활용 Chatbot</a></p>
+        <p>  - Calculator</p>
         <p>  - Google Search</p>
         <p>  - RAG Agent</p></a>
       </td>
@@ -103,8 +102,8 @@
       <td style="text-align: center;" class="confluenceTd">7</td>
       <td style="text-align: left;" class="confluenceTd">추가 기능 사용 실습</td>
       <td style="text-align: left;" class="confluenceTd">
-        <p>11. 추가 사용 팁</p>
-        <p><a href="./doc/11.Additional_Use.md">  - Chatbot 커스터마이징</p>
+        <p><a href="./doc/11.Additional_Use.md">11. 추가 사용 팁</a></p>
+        <p>  - Chatbot 커스터마이징</p>
         <p>  - 이미지 업로드</p>
         <p>  - 음성 입력</p>
         <p>  - 시작 Prompt 변경</p>
