@@ -81,7 +81,7 @@
     <tr>
       <td style="text-align: center;" class="confluenceTd">5</td>
       <td style="text-align: left;" class="confluenceTd">
-        <p>추가 모델 사용 Chatbot 생성 시연/실습<span> </span><strong>(LLAMA3.1 등)</strong></p>
+        <p>추가 모델 사용 Chatbot 생성 시연/실습<span> </span><strong>(LLAMA3.2 등)</strong></p>
       </td>
       <td style="text-align: left;" class="confluenceTd">
         <p>7. Ollama 이용한 Local Chatbot</p>
